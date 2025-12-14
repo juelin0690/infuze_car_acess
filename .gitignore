@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/*.csv
+outputs/*.png
+outputs/*.log
+outputs/__WRITE_TEST__.txt

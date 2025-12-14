@@ -1,5 +1,7 @@
 # infuze_car_acess(Mesa) — from ownership to on-demand access
 
+Tested with Python 3.12 on Windows
+
 ## Research question
 How do availability, booking friction, and social influence affect the transition from car ownership to car access?
 
